@@ -23,6 +23,7 @@
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Rahulsharma125/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0877-stone-game](https://github.com/Rahulsharma125/Leetcode/tree/master/0877-stone-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Rahulsharma125/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Rahulsharma125/Leetcode/tree/master/0877-stone-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Rahulsharma125/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
