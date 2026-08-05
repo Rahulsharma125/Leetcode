@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahulsharma125/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [3731-find-missing-elements](https://github.com/Rahulsharma125/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | ------- |
 | [0877-stone-game](https://github.com/Rahulsharma125/Leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rahulsharma125/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3731-find-missing-elements](https://github.com/Rahulsharma125/Leetcode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,4 +43,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Rahulsharma125/Leetcode/tree/master/0877-stone-game) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/Rahulsharma125/Leetcode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
