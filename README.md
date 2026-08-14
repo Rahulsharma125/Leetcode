@@ -34,6 +34,7 @@
 | ------- |
 | [0877-stone-game](https://github.com/Rahulsharma125/Leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rahulsharma125/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1480-running-sum-of-1d-array](https://github.com/Rahulsharma125/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3731-find-missing-elements](https://github.com/Rahulsharma125/Leetcode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/Rahulsharma125/Leetcode/tree/master/3731-find-missing-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Rahulsharma125/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
