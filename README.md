@@ -28,10 +28,12 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rahulsharma125/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/Rahulsharma125/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rahulsharma125/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0877-stone-game](https://github.com/Rahulsharma125/Leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rahulsharma125/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Rahulsharma125/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -52,4 +54,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Rahulsharma125/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rahulsharma125/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
