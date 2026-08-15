@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahulsharma125/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rahulsharma125/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rahulsharma125/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/Rahulsharma125/Leetcode/tree/master/0367-valid-perfect-square) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rahulsharma125/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Array
 |  |
 | ------- |
@@ -38,6 +40,7 @@
 | [1200-minimum-absolute-difference](https://github.com/Rahulsharma125/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rahulsharma125/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Rahulsharma125/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rahulsharma125/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3731-find-missing-elements](https://github.com/Rahulsharma125/Leetcode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
