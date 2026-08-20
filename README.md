@@ -29,12 +29,14 @@
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Rahulsharma125/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rahulsharma125/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/Rahulsharma125/Leetcode/tree/master/0367-valid-perfect-square) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rahulsharma125/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Rahulsharma125/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rahulsharma125/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0877-stone-game](https://github.com/Rahulsharma125/Leetcode/tree/master/0877-stone-game) |
 | [1200-minimum-absolute-difference](https://github.com/Rahulsharma125/Leetcode/tree/master/1200-minimum-absolute-difference) |
