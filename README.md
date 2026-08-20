@@ -70,4 +70,12 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Rahulsharma125/Leetcode/tree/master/1929-concatenation-of-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Rahulsharma125/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Rahulsharma125/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
