@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rahulsharma125/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/Rahulsharma125/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahulsharma125/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3731-find-missing-elements](https://github.com/Rahulsharma125/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
@@ -24,6 +25,7 @@
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Rahulsharma125/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Rahulsharma125/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0877-stone-game](https://github.com/Rahulsharma125/Leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rahulsharma125/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -32,6 +34,7 @@
 | ------- |
 | [0162-find-peak-element](https://github.com/Rahulsharma125/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rahulsharma125/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Rahulsharma125/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Rahulsharma125/Leetcode/tree/master/0367-valid-perfect-square) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rahulsharma125/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Array
@@ -39,6 +42,7 @@
 | ------- |
 | [0162-find-peak-element](https://github.com/Rahulsharma125/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rahulsharma125/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Rahulsharma125/Leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Rahulsharma125/Leetcode/tree/master/0877-stone-game) |
 | [1200-minimum-absolute-difference](https://github.com/Rahulsharma125/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rahulsharma125/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -57,6 +61,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Rahulsharma125/Leetcode/tree/master/0268-missing-number) |
 | [1200-minimum-absolute-difference](https://github.com/Rahulsharma125/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [3731-find-missing-elements](https://github.com/Rahulsharma125/Leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -94,4 +99,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Rahulsharma125/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Rahulsharma125/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
