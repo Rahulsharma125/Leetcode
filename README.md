@@ -7,12 +7,14 @@
 | [0141-linked-list-cycle](https://github.com/Rahulsharma125/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/Rahulsharma125/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahulsharma125/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Rahulsharma125/Leetcode/tree/master/0389-find-the-difference) |
 | [3731-find-missing-elements](https://github.com/Rahulsharma125/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Rahulsharma125/Leetcode/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahulsharma125/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Rahulsharma125/Leetcode/tree/master/0389-find-the-difference) |
 ## Queue
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Rahulsharma125/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Rahulsharma125/Leetcode/tree/master/0389-find-the-difference) |
 | [1200-minimum-absolute-difference](https://github.com/Rahulsharma125/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [3731-find-missing-elements](https://github.com/Rahulsharma125/Leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -103,4 +106,5 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Rahulsharma125/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Rahulsharma125/Leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
