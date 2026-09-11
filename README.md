@@ -51,6 +51,7 @@
 | [0162-find-peak-element](https://github.com/Rahulsharma125/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rahulsharma125/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Rahulsharma125/Leetcode/tree/master/0268-missing-number) |
+| [0643-maximum-average-subarray-i](https://github.com/Rahulsharma125/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/Rahulsharma125/Leetcode/tree/master/0877-stone-game) |
 | [1200-minimum-absolute-difference](https://github.com/Rahulsharma125/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rahulsharma125/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -130,4 +131,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rahulsharma125/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Rahulsharma125/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
