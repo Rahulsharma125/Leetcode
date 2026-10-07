@@ -111,6 +111,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rahulsharma125/Leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Rahulsharma125/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Rahulsharma125/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rahulsharma125/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bit Manipulation
@@ -135,4 +136,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Rahulsharma125/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Rahulsharma125/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
