@@ -9,6 +9,7 @@
 | [0268-missing-number](https://github.com/Rahulsharma125/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahulsharma125/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Rahulsharma125/Leetcode/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Rahulsharma125/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3731-find-missing-elements](https://github.com/Rahulsharma125/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -17,6 +18,7 @@
 | [0058-length-of-last-word](https://github.com/Rahulsharma125/Leetcode/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahulsharma125/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Rahulsharma125/Leetcode/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Rahulsharma125/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rahulsharma125/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Queue
 |  |
@@ -135,6 +137,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Rahulsharma125/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Rahulsharma125/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Design
 |  |
