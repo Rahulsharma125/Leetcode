@@ -32,6 +32,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Rahulsharma125/Leetcode/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/Rahulsharma125/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Rahulsharma125/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0877-stone-game](https://github.com/Rahulsharma125/Leetcode/tree/master/0877-stone-game) |
